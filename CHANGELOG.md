@@ -1,4 +1,6 @@
 # CHANGELOG
+* v1.1.0[2019-11-20]: Fixed the syntax error in the get_player_information
+ function by adding a closing parenthesis to the end of line 50 in players.py
 
 * v1.1.0[2019-11-20]: Fixed the issue with the game not beginning upon the
   program being run. 
