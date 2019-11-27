@@ -1,4 +1,7 @@
 # CHANGELOG
+* v1.1.0[2019-11-27]: Fixed the issue in line 63 of switch.py which 
+ was causing the value of the variable i to be incorrect.
+ 
 * v1.1.0[2019-11-20]: Fixed the syntax error in the get_player_information
  function by adding a closing parenthesis to the end of line 50 in players.py
 
