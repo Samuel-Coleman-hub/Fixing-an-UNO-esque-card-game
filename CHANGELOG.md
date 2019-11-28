@@ -1,4 +1,7 @@
 # CHANGELOG
+* v1.1.0[2019-11-27]: Fixed the error occuring from pytest due to not using the
+"if__name__ == '__main __':" to call the main function. 
+
 * v1.1.0[2019-11-27]: Fixed the issue in line 63 of switch.py which 
  was causing the value of the variable i to be incorrect.
  
