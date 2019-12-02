@@ -1,4 +1,5 @@
 # CHANGELOG
+* v1.1.0[2019-12-02]: Fixed the error where the player would be skipped everytime they placed a card.
 * v1.1.0[2019-11-27]: Fixed the error occuring from pytest due to not using the
 "if__name__ == '__main __':" to call the main function. 
 
