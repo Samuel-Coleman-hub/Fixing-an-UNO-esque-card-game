@@ -1,4 +1,7 @@
 # CHANGELOG
+* v1.1.0[2019-12-03]:Fixed the issue where the program would not allow you to enter 0 when selecting from your hand
+so that you could skip a go.
+
 * v1.1.0[2019-12-02]:Fixed the error where it was allowing players to place cards that were not the same suit or value
  as the top hand.
 

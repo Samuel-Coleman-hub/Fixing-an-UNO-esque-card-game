@@ -172,7 +172,7 @@ class Switch:
             card = self.stock.pop()
             # and add to hand
             player.hand.append(card)
-        return i
+        return n
 
     def can_discard(self, card):
         """Return whether card can be discarded onto discard pile."""
