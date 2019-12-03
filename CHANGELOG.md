@@ -1,4 +1,7 @@
 # CHANGELOG
+* v1.1.0[2019-12-04]:Fixed the issue where the game would not finish due to the program not iterating through the 
+cards properly
+
 * v1.1.0[2019-12-03]:Fixed the issue where the program would not allow you to enter 0 when selecting from your hand
 so that you could skip a go.
 
