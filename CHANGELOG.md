@@ -1,4 +1,6 @@
 # CHANGELOG
+* v1.1.0[2019-12-04]:Fixed the issue where the run_player function was not being left after the player had skipped.
+
 * v1.1.0[2019-12-04]:Fixed the issue where the game would not finish due to the program not iterating through the 
 cards properly
 
